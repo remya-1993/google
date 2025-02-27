@@ -215,12 +215,6 @@ button:hover {
     .nav1 {
         display: none;
     }
-
-    .nav1 .nav2 a:hover {
-        text-decoration: underline;
-        color: blue;
-    }
-
     .head {
         margin-top: 50px;
         justify-content: center;
