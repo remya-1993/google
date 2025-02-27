@@ -25,31 +25,14 @@ body {
 .hover-text {
     visibility: hidden;
     width: 80px;
-    background-color: rgb(161, 160, 160);
+    background-color: rgb(83, 82, 82);
     color: white;
     text-align: center;
     padding: 5px;
     border-radius: 5px;
     position: absolute;
     top: 32px;
-    left: 50%;
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: opacity 0.3s ease-in-out;
-    font-size: 12px;
-}
-
-.hover-text2 {
-    visibility: hidden;
-    width: 80px;
-    background-color: rgb(161, 160, 160);
-    color: white;
-    text-align: center;
-    padding: 5px;
-    border-radius: 5px;
-    position: absolute;
-    top: 32px;
-    left: 50%;
+    left: 40%;
     transform: translateX(-50%);
     opacity: 0;
     transition: opacity 0.3s ease-in-out;
@@ -193,11 +176,7 @@ button:hover {
 .para p a {
     color: blue;
     font-size: 13px;
-
-
 }
-
-
 .footer {
     margin-top: 130px;
     padding: 15px 25px;
@@ -252,7 +231,6 @@ button:hover {
         max-width: 100%;
         width: 340px;
         padding: 10px;
-     
     }
 
     .footer_tag {
