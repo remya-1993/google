@@ -24,11 +24,11 @@ body {
 }
 .hover-text {
     visibility: hidden;
-    width: 80px;
+    width: 70px;
     background-color: rgb(83, 82, 82);
     color: white;
     text-align: center;
-    padding: 5px;
+    padding: 3px;
     border-radius: 5px;
     position: absolute;
     top: 32px;
